@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-10-27
+  Features:
+    - Initial release. Provides Space Age-only assets for Prismatic Belts
